@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-⚡ Freelance webdev ❤️ `vuejs` `nuxt` `js` 💬 [Contact](mailto:fwerndl@gmail.com)
+⚡ Freelance webdev &nbsp; ❤️ `vuejs` `nuxt` `js` &nbsp; 💬 [Contact](mailto:fwerndl@gmail.com)
